@@ -29,6 +29,8 @@ Then, paste the preloading HTML just inside your `body` tag.
 ## Demo
 Want to see it in action?  Check out the demo at: https://demo.jdmdigital.co/percent-preloader/
 
+![Percent Preload Demo](demo/Precent-Preloader.gif)
+
 You may need to throttle your browser if it's loading too fast.  What a great problem that is to have. ;)
 
 ## To Do
