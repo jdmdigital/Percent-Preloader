@@ -10,8 +10,8 @@ Page preloaders give your users a few seconds to understand that the page IS loa
 Download the latest release and simply include both the CSS and the JS in your project. 
 
 ```html
-<link rel="stylesheet" href="percent-preloader.css">
-<script src="percent-preloader.js"></script>
+<link rel="stylesheet" href="percent-preloader.min.css">
+<script src="percent-preloader.min.js"></script>
 ```
 If you want, you could also inline the CSS and the JS.  Totally up to you.
 
